@@ -155,7 +155,7 @@ This page aims to list these tools. If you know of other tools or have other fee
 ### [Astrum](http://astrum.nodividestudio.com/)
 > A lightweight, non-opinionated, pattern library designed to be included with any web project.
 
-[Source](https://github.com/NoDivide/astrum) | **NodeJS, CLI, Markdown**
+[Demo](http://astrum.nodividestudio.com/pattern-library) | [Source](https://github.com/NoDivide/astrum) | **NodeJS, CLI, Markdown**
 
 
 ### [Swanky Docs](https://swanky-docs.org/)
