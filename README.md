@@ -198,7 +198,7 @@ These tools define a documenting syntax for CSS. You would e.g. write your compo
 ### [StyleDocco](http://jacobrask.github.io/styledocco/)
 > StyleDocco generates documentation and style guide documents from your stylesheets.
 
-[Source](https://github.com/jacobrask/styledocco/issues) | **\*CSS, NodeJS, Markdown**
+[Demo](http://jacobrask.github.io/styledocco/styledocco/examples/styledocco/docs.html) | [Source](https://github.com/jacobrask/styledocco/issues) | **\*CSS, NodeJS, Markdown**
 
 
 ### [DSS](https://github.com/darcyclarke/DSS)
